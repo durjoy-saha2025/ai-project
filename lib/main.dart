@@ -32,7 +32,7 @@ class VisaTrackerApp extends StatelessWidget {
           backgroundColor: Color(0xFF0B1020),
           elevation: 0,
         ),
-        cardTheme: CardTheme(
+        cardTheme: CardThemeData(
           color: const Color(0xFF151B30),
           elevation: 0,
           shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
